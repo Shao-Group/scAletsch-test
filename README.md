@@ -1,7 +1,7 @@
 # Overview
 
 This repository tests and compares the performance of single-cell transcript assembler
-[**scAletsch**](https://github.com/Shao-Group/aletsch) with other three leading meta-assemblers at individual-level,
+[**scAletsch**](https://github.com/Shao-Group/scAletsch) with other three leading meta-assemblers at individual-level,
 [Psiclass](https://github.com/splicebox/PsiCLASS),
 [TransMeta](https://github.com/yutingsdu/TransMeta) and
 [Aletsch](https://github.com/Shao-Group/aletsch).
